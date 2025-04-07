@@ -6,7 +6,7 @@ export default function SpazaDashboardPage() {
   const router = useRouter();
 
   const mockData = {
-    shopName: "Sipho’s Spaza",
+    shopName: "Sipho's Spaza",
     nearbyWholesalers: 5,
     totalOrdersThisWeek: 12,
     pendingItems: 3,
