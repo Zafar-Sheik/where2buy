@@ -30,11 +30,11 @@ export default function ContactPage() {
         <div className="max-w-7xl mx-auto px-4 py-24 md:py-32 text-center">
           <div className="space-y-6">
             <h1 className="text-5xl md:text-6xl font-bold text-orange-700">
-              Let's Connect
+              Let&apos;s Connect
             </h1>
             <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-              Whether you're a spaza shop owner, wholesaler, or investor - we'd
-              love to hear from you.
+              Whether you&apos;re a spaza shop owner, wholesaler, or investor -
+              we&apos;d love to hear from you.
             </p>
           </div>
         </div>

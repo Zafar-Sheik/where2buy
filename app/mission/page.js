@@ -14,7 +14,7 @@ export default function MissionPage() {
         <div className="max-w-7xl mx-auto px-4 py-24 md:py-32 text-center">
           <div className="space-y-6">
             <h1 className="text-5xl md:text-6xl font-bold text-orange-700">
-              Building Africa's Retail Future
+              Building Africa&apos;s Retail Future
             </h1>
             <p className="text-xl text-gray-700 max-w-3xl mx-auto">
               Empowering communities through intelligent commerce solutions
@@ -35,7 +35,7 @@ export default function MissionPage() {
                 Revolutionizing Local Commerce
               </h2>
               <p className="text-gray-600 text-lg">
-                We're creating an ecosystem where local businesses thrive
+                We&apos;re creating an ecosystem where local businesses thrive
                 through technology-driven solutions and community empowerment.
               </p>
             </div>
@@ -118,7 +118,7 @@ export default function MissionPage() {
                 Our Aim - Real Impact, Measurable Results
               </h2>
               <p className="text-xl opacity-90">
-                See how we're transforming local commerce across Africa
+                See how we&apos;re transforming local commerce across Africa
               </p>
               <div className="text-orange-800 grid grid-cols-3 gap-8">
                 {[
@@ -150,8 +150,8 @@ export default function MissionPage() {
             Join the Revolution
           </h2>
           <p className="text-gray-600 text-xl max-w-2xl mx-auto">
-            Whether you're a spaza shop owner, wholesaler, or community leader -
-            together we can build stronger local economies.
+            Whether you&apos;e a spaza shop owner, wholesaler, or community
+            leader - together we can build stronger local economies.
           </p>
           <div className="flex flex-col md:flex-row gap-6 justify-center">
             <button className="bg-orange-600 text-white px-8 py-4 rounded-xl hover:bg-orange-700 transition-all">

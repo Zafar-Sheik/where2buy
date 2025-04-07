@@ -111,7 +111,7 @@ export default function SpazaDemoLayout({ children }) {
             </button>
             <div className="flex-1" />
             <div className="flex items-center gap-4">
-              <span className="text-sm text-gray-600">Sipho's Spaza</span>
+              <span className="text-sm text-gray-600">Sipho&apos;s Spaza</span>
               <div className="h-8 w-8 rounded-full bg-blue-100 flex items-center justify-center">
                 <span className="text-blue-600 font-medium">SS</span>
               </div>

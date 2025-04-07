@@ -89,7 +89,7 @@ export default function CompareProductsPage() {
         {/* Special Offers Carousel */}
         <div className="mb-16">
           <div className="flex items-center justify-between mb-6">
-            <h2 className="text-2xl font-semibold">Today's Hot Deals</h2>
+            <h2 className="text-2xl font-semibold">Today&apos;s Hot Deals</h2>
             <button className="flex items-center text-blue-600 hover:text-blue-700">
               View All <FiArrowRight className="ml-2" />
             </button>

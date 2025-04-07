@@ -84,10 +84,10 @@ export default function HomePage() {
       <section className="max-w-7xl mx-auto px-4">
         <div className="bg-orange-600 rounded-2xl p-12 text-center text-white space-y-8 shadow-xl">
           <h2 className="text-4xl font-bold">
-            Powering Africa's Retail Revolution
+            Powering Africa&apos;s Retail Revolution
           </h2>
           <p className="text-xl max-w-3xl mx-auto opacity-90">
-            We're building the digital infrastructure to connect local
+            We are building the digital infrastructure to connect local
             businesses, optimize supply chains, and drive economic growth across
             the continent.
           </p>
